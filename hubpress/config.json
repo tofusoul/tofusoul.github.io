@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "Tofu Press",
-    "description": "|ಠ_ರೃ| - Serious Tofu"
+    "description": "|ಠ_ರೃ| - Serious Tofu",
+    "disqus": "tofupress"
   },
   "socialnetwork": {
     "email": "haoyen.shih@gmail.com",
@@ -14,6 +15,6 @@
     "github": "https://github.com/tofusoul"
   },
   "theme": {
-    "name": "casper"
+    "name": "uno"
   }
 }
