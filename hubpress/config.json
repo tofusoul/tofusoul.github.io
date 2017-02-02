@@ -4,7 +4,10 @@
     "repositoryName": "tofusoul.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Tofu Press",
+    "description": "|ಠ_ರೃ| - Serious Tofu"
+  },
   "socialnetwork": {
     "email": "haoyen.shih@gmail.com",
     "twitter": "tofusoul",
