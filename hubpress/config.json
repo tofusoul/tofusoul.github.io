@@ -4,7 +4,13 @@
     "repositoryName": "tofusoul.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "haoyen.shih@gmail.com",
+    "twitter": "",
+    "github": ""
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
